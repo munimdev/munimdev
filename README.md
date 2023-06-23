@@ -35,10 +35,10 @@ width="36" height="36" alt="HTML5" /></a> &nbsp;
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/munimdev">
-  <img height=200 align="center" src="https://munimdev-github-stats.vercel.app/api?username=munimdev&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" alt="munimdev's GitHub stats" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-munimdev.vercel.app/api?username=munimdev&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" alt="munimdev's GitHub stats" />
 </a>
 <a href="https://github.com/munimdev">
-  <img height=200 align="center" src="https://munimdev-github-stats.vercel.app/api/top-langs?username=munimdev&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=320" alt="munimdev's GitHub most-used languages" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-munimdev.vercel.app/api/top-langs?username=munimdev&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=320" alt="munimdev's GitHub most-used languages" />
 </a>
 
 <!--
