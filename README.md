@@ -1,13 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Munim Zafar
-========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Munim Zafar
 
-Full-Stack Engineer | Blockchain Developer
---------------------------
+## Full-Stack Engineer | Blockchain Developer
 
-*   🌍  I'm based in Islamabad, Pakistan
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://munimdev.vercel.app/'>Portfolio</a>
-*   🧠  Currently learning TypeScript & Next.js
-*   🤝  I'm open to collaborating on interesting projects as a developer
+-   🌍  I'm based in Islamabad, Pakistan
+-   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://munimdev.vercel.app/'>Portfolio</a>
+-   🧠  Currently learning TypeScript & Next.js
+-   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
 
@@ -29,8 +27,9 @@ width="36" height="36" alt="HTML5" /></a> &nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> &nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> &nbsp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> &nbsp;
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munimdev/munimdev/76b29d030f2a20c68a05910ba7d1f61a0cef6023/icons/docker.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munimdev/munimdev/76b29d030f2a20c68a05910ba7d1f61a0cef6023/icons/postman.svg" width="36" height="36" alt="Postman" /></a> &nbsp;
 <!-- <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a> &nbsp; -->
-
 
 ### Socials
 
