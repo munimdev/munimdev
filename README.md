@@ -4,7 +4,7 @@
 
 -   🌍  I'm based in Islamabad, Pakistan
 -   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://munimdev.vercel.app/'>Portfolio</a>
--   🧠  Currently learning TypeScript & Next.js
+-   🧠  Currently learning reinforcement learning
 -   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
